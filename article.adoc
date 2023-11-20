@@ -17,13 +17,15 @@ v1.0, 2023-06-05: Rohentwurf
 :imagesdir: .
 
 [abstract]
-Dies ist der Vorlauftext des Artikels, der in wenigen Sätzen beschreibt, welche Themen die Lesenden in Deinem Artikel erwarten.
+Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a writing group, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is to end each meeting with a patch or similar contribution submitted to an open and public project. Membership is open to anyone willing to contribute their time.
 
 It is 7 pm on a Wednesday evening, and we are gathered  in Basel, Switzerland in the company of ten software engineers sharing their time and expertise to develop open source software. 
-They share a passion for code, sharing knowledge and  open source software, they may not be colleagues, some of them  work for the same company, but today they are working together as a team to create something that can be used by others.
-The event had been scheduled for 15 November a few weeks earlier <to keep up to date with upcoming events, visit https://www.hackergarten.net>. 
-The 345 Hackergarten meeting  happened on a crisp evening, people were arriving slowly but surely, some joined around 5pm. Despite the apparent large size of the software community, many warm greetings were exchanged, such as "hello" and "long time no see". Certain participants felt like they were reuniting with long-lost acquaintances, whereas others had the advantage of being regular attendees. It’s another wonderful evening among acquaintances, friends, and ex-colleagues or maybe even soon to be colleagues. As I sat in front of my computer, I overheard an intriguing conversation on documentation, templating and how to enforce a project structure. Several questions and suggestions were raised, including a helpful prompt to create a plugin for “Asciidoctor.” We noted it down to bring up during the brainstorming session later in the evening.
-At around six o'clock, Markus S walked towards the whiteboard and, with great enthusiasm, took attendance. "So many new faces!" he exclaimed. <You may be the next one, don’t forget to check the webpage!>
+They have a passion for code, sharing knowledge and open source software, they may not be colleagues, some of them work for the same company, but today they are working together as a team to create something that can be used by others.
+The event had been scheduled for 15 November a few weeks earlier `> to keep up to date with upcoming events, visit the Hackergarten site"` <<Hackergarten>>
+
+
+The 341 Hackergarten meeting  happened on a crisp evening, people were arriving slowly but surely, some joined around 5pm. Despite the apparent large size of the software community, many warm greetings were exchanged, such as *_"Hey!! So nice to seeyou again!"_*, *_"hello!!"_* and *_"long time no see"_*. Certain participants felt like they were reuniting with long-lost acquaintances, whereas others had the advantage of being regular attendees. It’s another wonderful evening among acquaintances, friends, and ex-colleagues or maybe even soon to be colleagues. As I sat in front of my computer, I overheard an intriguing conversation on documentation, templating and how to enforce a project structure. Several questions and suggestions were raised, including a helpful prompt to create a plugin for “Asciidoctor.” We noted it down to bring up during the brainstorming session later in the evening.
+At around six o'clock, Markus S walked towards the whiteboard and, with great enthusiasm, took attendance. "So many new faces!" he exclaimed. `> You may be the next one, don’t forget to check the webpage!` <<Hackergarten>>
 
 Marcus welcomed the new attendees and clarified the purpose of Hackergarten, explaining that the aim is to create a tangible outcome that can benefit others, whether it is functional software, enhanced documentation, or improved educational resources. The goal is to conclude each meeting with a patch or comparable contribution to an openly source and public project.
 Markus emphasised that contributing to open source does not always involve writing code. A contribution can take various forms, not all of which are technical.
@@ -31,16 +33,15 @@ This article provides proof of this fact. Marcus Fihlon proposed an outstanding 
 
 Within minutes, a list of topics began to take shape.  Each person had the opportunity to introduce a project and a first idea of how they would like to contribute. If they are aware of a specific issue or a possible addition to their favourite open source project which they use at work, or simply one they wish to contribute to, they could elaborate on that. We are aware that several open-source projects have spent time welcoming new contributors, and you can find issues marked as "first contribution", but remember that we are in a room full of people who love to code, share knowledge and spend time with similarly minded people. However, it is precisely this that makes Hackergarten such a unique event. The event has a clear starting point, people with skills, knowledge, passion and a willingness to make the world a better place, one contribution at the time.
 
-Here you can see the list of topics we proposed tonight.
-
-- Asciidoctor Plugin/ Antora Plugin
-- Mastodon setup on (h) Cloud  ( Bash ) 
-- Article about Hakergarten  for JavaAktuell
-- Apache Solr : 1st contrib issues
-- ZioNSON with DSON-LD (Scala)
-- JReleaser
-- RDiscount ( Ruby, C )
-- Pandoc Plant UML Filter (Python )
+.Here you can see the list of topics we proposed tonight:
+* Asciidoctor Plugin/ Antora Plugin
+* Mastodon setup on (h) Cloud  ( Bash ) 
+* Article about Hakergarten  for JavaAktuell
+* Apache Solr : 1st contrib issues
+* ZioNSON with DSON-LD (Scala)
+* JReleaser
+* RDiscount ( Ruby, C )
+* Pandoc Plant UML Filter (Python )
 
 After a quick vote to gauge the interest of topics by each attendee and some coordination in order to find who will join each topic. In Hackergarten there are not many rules but is the intention of the organiser that people split in groups so nobody works alone. 
 
@@ -54,26 +55,30 @@ So you may be asking yourself why should I join the next Hackergarten ?
 
 This article is being written while listening to several conversations happening in the background. Many git commands can be heard! Surprised expressions about new shortcuts or tools. Learning is a natural occurrence in relax environments, when there are all the ingredients set to simple enjoy the art of coding. We put the same question to those of our team who attended the Hackergarten event today. You will probably be interested in the answers from experienced people.
 
-Here are some of the comments we received from participants when we asked them why they were attending tonight:
-
-“A sense of accomplishment, because the goal is to finish the contribution in one evening”
-“Quick and easy introduction to how to contribute to open source, because someone can help you get started”
-“Writing open source in a shared and personal environment is more rewarding, it's working together to achieve a common goal”
-“I was surprised by the welcoming environment and how easy it is to interact with other participants”
+.Here are some of the comments we received from participants when we asked them why they were attending tonight:
+* _“A sense of accomplishment, because the goal is to finish the contribution in one evening”_
+* _“Quick and easy introduction to how to contribute to open source, because someone can help you get started”_
+* _“Writing open source in a shared and personal environment is more rewarding, it's working together to achieve a common goal”_
+* _“I was surprised by the welcoming environment and how easy it is to interact with other participants”_
 
 I can assure you that you may have had similar responses before, or perhaps you have specific intentions for joining us.
 
 We have a clear message for you. Hackergarten gives you a possibility to work in a challenging projects and seeing yourself in a different light or a new way like you never have before. 
 
+Our warmest thank you and recognition to all attendees to Hackergarten #341
+
+
+
 [bibliography]
 == Quellen
 
-Die Auflistung der Quellenangaben beginnt in drei eckigen Klammern mit einer Kombination aus der im Artikel verwendeten eindeutigen ID und, mit Komma getrennt, einer fortlaufenden Zahl. Diese Zahl wird an der richtigen Stelle im Artikel als Verweis verwendet. So muss bei einer Neu-Numerierung nur diese eine Stelle angepasst werden. Anschliessend Text und Links wie gewünscht.
-
-- [[[TestQuelle,1]]] Autor(in) (Jahr): Titel. Verlag, Ort
-- [[[JavaAktuell,2]]] Java aktuell Website: link:https://www.ijug.eu/de/java-aktuell/zeitschrift/[]
+- [[[Hackergarten,1]]] Hackergaten Website: link:https://www.hackergarten.net[]
+- [[[Meetup,2]]]https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/
 
 
 == Über den Autoren/die Autorin
 
-Hier hast Du die Möglichkeit, dich selbst in wenigen Sätzen zu präsentieren. Bitte verwende hierfür maximal 600 Zeichen inklusive Leerzeichen und schicke ein digitales Autorenfoto mit.
+Ix-chel Ruiz has developed software application & tools since 2000. Her research interests include Java, dynamic languages, client-side technologies and testing. Java Champion, Oracle ACE pro, Testcontainers Community Champion, CDF Ambassador, Hackergarten enthusiast, Open Source advocate, public speaker and mentor.
+
+Tamari Gogebashvili 
+
