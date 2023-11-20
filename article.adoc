@@ -65,7 +65,9 @@ I can assure you that you may have had similar responses before, or perhaps you 
 
 We have a clear message for you. Hackergarten gives you a possibility to work in a challenging projects and seeing yourself in a different light or a new way like you never have before. 
 
-Our warmest thank you and recognition to all attendees to Hackergarten #341
+Our warmest thank you and recognition to all attendees to Hackergarten #341:
+
+
 
 
 
@@ -73,12 +75,12 @@ Our warmest thank you and recognition to all attendees to Hackergarten #341
 == Quellen
 
 - [[[Hackergarten,1]]] Hackergaten Website: link:https://www.hackergarten.net[]
-- [[[Meetup,2]]]https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/
+- [[[Meetup,2]]] Meetup event link: https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/
 
 
 == Über den Autoren/die Autorin
 
-Ix-chel Ruiz has developed software application & tools since 2000. Her research interests include Java, dynamic languages, client-side technologies and testing. Java Champion, Oracle ACE pro, Testcontainers Community Champion, CDF Ambassador, Hackergarten enthusiast, Open Source advocate, public speaker and mentor.
+*Ix-chel Ruiz* has developed software application & tools since 2000. Her research interests include Java, dynamic languages, client-side technologies and testing. Java Champion, Oracle ACE pro, Testcontainers Community Champion, CDF Ambassador, Hackergarten enthusiast, Open Source advocate, public speaker and mentor.
 
-Tamari Gogebashvili 
+*Tamari Gogebashvili*
 
