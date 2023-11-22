@@ -82,5 +82,4 @@ Our warmest thank you and recognition to all attendees to Hackergarten #341:
 
 *Ix-chel Ruiz* has developed software application & tools since 2000. Her research interests include Java, dynamic languages, client-side technologies and testing. Java Champion, Oracle ACE pro, Testcontainers Community Champion, CDF Ambassador, Hackergarten enthusiast, Open Source advocate, public speaker and mentor.
 
-*Tamari Gogebashvili*
-
+*Tamari Gogebashvili* is a Software Engineer with more than 5 years of experience in Java and various Front-Eend technologies. M.Sc in Computer Science and Hackergarten enthusiast. Her areas of interest are Data processing, Analytics and Intellectual Systems.
