@@ -53,11 +53,11 @@ will be enjoying a very productive evening and pizza with beer at the Karakun of
 
 So you may be asking yourself why should I join the next Hackergarten ?
 
-This article is being written while listening to several conversations happening in the background. Many git commands can be heard! Surprised expressions about new shortcuts or tools. Learning is a natural occurrence in relax environments, when there are all the ingredients set to simple enjoy the art of coding. We put the same question to those of our team who attended the Hackergarten event today. You will probably be interested in the answers from experienced people.
+This article was written while listening to several conversations happening in the background. Many git commands can be heard! Surprised expressions about new shortcuts or tools. Learning is a natural occurrence in relax environments, when there are all the ingredients set to simple enjoy the art of coding. We put the same question to those of our team who attended the Hackergarten event today. You will probably be interested in the answers from experienced people.
 
 .Here are some of the comments we received from participants when we asked them why they were attending tonight:
 * _“A sense of accomplishment, because the goal is to finish the contribution in one evening”_
-* _“Quick and easy introduction to how to contribute to open source, because someone can help you get started”_
+* _“Quick and easy introduction on how to contribute to open source, because someone can help you get started”_
 * _“Writing open source in a shared and personal environment is more rewarding, it's working together to achieve a common goal”_
 * _“I was surprised by the welcoming environment and how easy it is to interact with other participants”_
 
@@ -82,7 +82,7 @@ Hackergarten embraces diversity and encourages anyone who is passionate and will
 If you are considering organizing a Hackergarten for the first time, it is highly recommended that you attend one as a participant beforehand. This will give you valuable insight into how the event is structured and executed. 
 
 === How to organise a **succesful** Hackergarten?
-To host a successful Hackergarten, you will need a suitable venue with ample electrical plugins, as well as reliable WiFi access. It is also important to provide refreshments, snacks, and/or pizza during the event, as this will not only keep participants fueled ( perhaps even happy ) but also create an opportunity for networking and socializing during the break.
+To host a successful Hackergarten, you will need a suitable venue with ample power plugs, as well as reliable WiFi access. It is also important to provide refreshments, snacks, and/or pizza during the event, as this will not only keep participants fueled ( perhaps even happy ) but also create an opportunity for networking and socializing during the break.
 
 === Pizza
 A commonly used formula is to multiply the number of participants by 0.8, rounding up to the nearest whole number.
@@ -110,4 +110,4 @@ If you are interested in using the Hackergarten logo, you can download it from t
 
 *Ix-chel Ruiz* has developed software application & tools since 2000. Her research interests include Java, dynamic languages, client-side technologies and testing. Java Champion, Oracle ACE pro, Testcontainers Community Champion, CDF Ambassador, Hackergarten enthusiast, Open Source advocate, public speaker and mentor.
 
-*Tamari Gogebashvili* is a Software Engineer with more than 5 years of experience in Java and various Front-Eend technologies. M.Sc in Computer Science and Hackergarten enthusiast. Her areas of interest are Data processing, Analytics and Intellectual Systems.
+*Tamari Gogebashvili* is a Software Engineer with more than 5 years of experience in Java and various Front-End technologies. M.Sc in Computer Science and Hackergarten enthusiast. Her areas of interest are Data processing, Analytics and Intellectual Systems.
