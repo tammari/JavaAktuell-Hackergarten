@@ -87,11 +87,23 @@ To host a successful Hackergarten, you will need a suitable venue with ample ele
 === Pizza
 A commonly used formula is to multiply the number of participants by 0.8, rounding up to the nearest whole number.
 
+=== Social and Communication
+To streamline your organization process, a platform like Meetup is highly recommended. It has proven to be effective for many events, including Hackergartens in places such as Basel and Lucerne.
+You can easily manage event registration, communication, and updates. 
+
+=== Join the list!
+If you would like your Hackergarten event to be added to the Hackergarten official list, simply fork <<Repository, their repository>>, include the event details in the events.json file, and submit a pull request. 
+
+=== Media
+
+If you are interested in using the Hackergarten logo, you can download it from their website's download section. However, please make sure to agree to the license terms before using it. 
+
 [bibliography]
 == Quellen
 
 - [[[Hackergarten,1]]] Hackergaten Website: link:https://www.hackergarten.net[]
 - [[[Meetup,2]]] Meetup event link: https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/
+- [[[Repository, 3]]] Github Repository link: https://github.com/hackergarten/hackergarten.github.io/
 
 
 == Über den Autoren/die Autorin
