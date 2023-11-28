@@ -68,7 +68,15 @@ We have a clear message for you. Hackergarten gives you a possibility to work in
 Our warmest thank you and recognition to all attendees to Hackergarten #341:
 
 
+== Hackergarten 
 
+
+=== What is Hackergarten? 
+Hackergarten is a unique and dynamic gathering where individuals from diverse backgrounds come together in a collaborative environment. It functions as a workshop, a classroom, a lab, a social club, a writing society, a recreational space, and an artist's studio all at once. The primary objective of Hackergarten is to create valuable contributions that others can benefit from - be it functional software, enhanced documentation, or improved educational resources. 
+
+At every meeting, members focus on producing a tangible outcome, be it a patch or a similar contribution to an open and public project. The aim is not only to learn, explore, and experiment but also to make a positive impact by actively participating in the open-source community.
+
+Hackergarten embraces diversity and encourages anyone who is passionate and willing to dedicate their time and energy to join the community. It provides a platform for individuals to collaborate, share knowledge, and collectively work towards a common goal. By promoting active involvement and fostering a sense of camaraderie, Hackergarten aims to create a supportive and enriching environment for all its members.
 
 
 [bibliography]
