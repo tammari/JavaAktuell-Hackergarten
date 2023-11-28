@@ -78,6 +78,9 @@ At every meeting, members focus on producing a tangible outcome, be it a patch o
 
 Hackergarten embraces diversity and encourages anyone who is passionate and willing to dedicate their time and energy to join the community. It provides a platform for individuals to collaborate, share knowledge, and collectively work towards a common goal. By promoting active involvement and fostering a sense of camaraderie, Hackergarten aims to create a supportive and enriching environment for all its members.
 
+=== How to organise a Hackergarten?
+If you are considering organizing a Hackergarten for the first time, it is highly recommended that you attend one as a participant beforehand. This will give you valuable insight into how the event is structured and executed. 
+
 
 [bibliography]
 == Quellen
