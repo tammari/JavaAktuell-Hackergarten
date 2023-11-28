@@ -81,6 +81,11 @@ Hackergarten embraces diversity and encourages anyone who is passionate and will
 === How to organise a Hackergarten?
 If you are considering organizing a Hackergarten for the first time, it is highly recommended that you attend one as a participant beforehand. This will give you valuable insight into how the event is structured and executed. 
 
+=== How to organise a **succesful** Hackergarten?
+To host a successful Hackergarten, you will need a suitable venue with ample electrical plugins, as well as reliable WiFi access. It is also important to provide refreshments, snacks, and/or pizza during the event, as this will not only keep participants fueled ( perhaps even happy ) but also create an opportunity for networking and socializing during the break.
+
+=== Pizza
+A commonly used formula is to multiply the number of participants by 0.8, rounding up to the nearest whole number.
 
 [bibliography]
 == Quellen
